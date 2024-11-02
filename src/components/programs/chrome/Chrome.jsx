@@ -59,7 +59,7 @@ const Chrome = () => {
             <iframe
                 className="w-full h-full"
                 title="VSCode Window"
-                src="http://www.google.com/custom?q=&btnG=Search"
+                src="https://browser.rammerhead.org/"
             ></iframe>
         </div>
     );
